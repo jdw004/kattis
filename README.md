@@ -2,7 +2,7 @@
 
 Welcome to my repo of solutions for **Kattis** programming problems.
 
-## 🚀 What’s Inside?
+## 🚀 Overview
 
 A collection of my accepted solutions from [open.kattis.com](https://open.kattis.com/), written in Python or C++.
 
